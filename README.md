@@ -1,2 +1,2 @@
-# DSA_Arrays
+# DSA_1_Arrays
 Arrays Projects
